@@ -1,0 +1,45 @@
+body {
+    background-color: #09ff8c2d;
+}
+
+ul{
+    list-style-type: square; 
+}
+
+img.шаверма {
+    border-radius: 100%
+}
+
+hr {
+    border-top: 1px solid red;
+  }
+
+  hr{
+    border: 3px solid darkmagenta;
+    border-radius: 10px;
+  }
+
+  
+  
+
+  hr {
+    overflow: visible; 
+    height: 30px;
+    border-style: solid;
+    border-color: black;
+    border-width: px 0 0 0;
+    border-radius: 50px;
+}
+hr{ 
+    display: block;
+    content: "&";
+    height: 30px;
+    margin-top: -31px;
+    border-style: solid;
+    border-color: black;
+    border-width: 0 0 5px 0;
+    border-radius: 20px;
+}
+  
+
+ 
